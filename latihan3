@@ -1,0 +1,81 @@
+<html>
+<html lang="English">
+<html type="teks">
+    <head>
+        <link rel="icon" type="image" href="images/kue.ico">
+        <title>
+            Ku-we : kue dan sajian pencuci mulut
+        </title>
+    </head>
+    <!--bagian style-->
+    <style>
+        body {
+            background: linear-gradient(to right, #ff5f6d, #ffc371);
+            color: antiquewhite;
+            font-family: verdana;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 35px;
+            background-color: #ff5f6d;
+        }
+        h2 {
+            font-family: arial;
+            font-size: 20px;
+            text-align: center;
+        }
+        .info {
+            text-align: justify;
+            font-size: 15px;
+            margin: 30px 0;
+        }
+    </style>
+    <body>
+       <div class="container">
+            <h1>Ku-we : Kue dan Sajian Pencuci Mulut</h1>
+       </div>
+        <hr>
+            <h2><i>"Aneka kue dan kudapan manis"</i></h2>
+            <br>
+        <img src="images/makan1.jpg" width="600" height="400" style="float: left; margin-right: 10px;">
+        <p style="text-align: justify;">Kue adalah kudapan atau makanan ringan yang bukan makanan utama. Kue biasanya bercita rasa manis atau ada pula yang gurih dan asin. Kue sering kali diartikan sebagai makanan ringan yang dibuat dari adonan tepung, baik tepung beras, tepung sagu, tapioka, ataupun terigu. Kue tradisional Nusantara lazim ditemukan di Indonesia, Malaysia, Singapura, 
+            serta Belanda melalui hubungan sejarahnya dengan Indonesia.
+            Kata "kue" berasal dari kata serapan dari Bahasa <i>Hokkian: 粿 koé,</i> hal ini menunjukkan pengaruh seni memasak Tionghoa di Nusantara, beberapa kue memang menunjukkan asal mulanya dari Tiongkok seperti bakpia. Kebanyakan kue basah adalah kue tradisional Nusantara, sementara beberapa kue lain seperti lapis legit, risoles, pastel dan panekuk menunjukkan pengaruh Eropa, yaitu Belanda dan Portugis. Pada awalnya istilah kue memang digunakan untuk menyebut kue tradisional dan kue peranakan Tionghoa, akan tetapi kini dalam Bahasa Indonesia istilah ini telah meluas menjadi istilah yang memayungi berbagai jenis makanan ringan berbahan adonan tepung, 
+            biasanya dari tepung terigu atau tepung beras, termasuk untuk menyebut kue basah, kue kering, kue pastri, dan kue bolu.
+            Kue dapat dimasak dengan cara dikukus, dipanggang, atau digoreng. 
+            Kue di Indonesia biasanya dikategorikan berdasarkan kadar airnya, yaitu kue basah dan kue kering. Kue terasa lezat apabila dinikmati selagi hangat ditemani teh atau kopi sembari mengobrol dengan kerabat terdekat.</p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+                <ol style="text-align: left;">
+                <li style="text-align: justify;">
+                    <b>Kue Basah</b>
+                    <img src="images/kue2.jpg" width="300" height="200" style="float: left;margin-right: 20px;">
+                    <p><cite>Kue basah</cite> merupakan makanan kecil yang bisa dijadikan alternatif camilan. Biasa disantap di pagi atau sore hari. Kue basah umumnya empuk, lembut, dan tidak bertahan lama (hanya bertahan beberapa hari). Biasanya terbuat dari tepung terigu, sagu, gula, 
+                    bahkan ada yang berbahan santan atau ketan. Kue basah umumnya empuk, bertekstur lembut, dan tidak dapat bertahan lama (hanya bertahan beberapa hari atau kurang). Hal ini karena umumnya kue tradisional terbuat dari tepung beras, gula, dan santan, sehingga lekas basi. Kue basah biasanya dimasak dengan cara dikukus, direbus, atau digoreng. Kebanyakan kue tradisional Nusantara adalah kue basah, 
+                    dan umumnya dapat ditemui di pasar tradisional di Indonesia.
+                    </p>
+                    <br>
+                </li>
+                <br>
+                <br>
+                <br>
+                <li>
+                    <b>Kue Kering</b>
+                    <img src="images/kue3.jpg" width="300" height="200" style="float: left; margin-right: 20px;">
+                    <p><cite>Kue kering</cite> adalah kue dengan kadar air yang minimal, sehingga dapat tahan disimpan lebih lama daripada kue basah. Kue kering biasanya bertekstur keras tetapi renyah karena dibuat dengan cara dipanggang memakai oven. Kue kering memiliki daya tahan yang cukup lama. Bahan yang umum digunakan untuk pembuatan kue kering di antaranya tepung beras, tepung ketan, terigu, ataupun sagu. Kue kering lebih dikategorikan sebagai kue yang dipanggang mirip seperti kukis. Kue kering biasanya populer disajikan pada saat perayaan lebaran atau natal.</p>
+                </li>
+            </ol>
+    </body>
+    <br>
+    <br>
+    <a href="https://cookpad.com/id/cari/kue?event=search.typed_query"> untuk aneka resep, klik disini</a>
+</html>
+</html>
+</html>
