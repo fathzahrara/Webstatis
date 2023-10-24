@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-family: franklin gothic;
+    background-image: url(https://sfwallpaper.com/images/website-background-11.jpg);
+}
+
+header { 
+    background-color: #ffffff;
+    background-image:url(images/bt.png) ;
+    background-repeat: no-repeat;
+    background-size: 65px, 65px;
+    background-position: left;
+    color: #171A8D;
+    padding: 8px;}
+header img {
+    width: 150px;
+    height: auto;
+}
+h1 {
+    text-align: center;
+    font-family: franklin gothic medium;
+}
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+p {
+    text-indent: 20px;
+}
+p.doubled {
+    border: 5px double #171A8D;
+    outline: #171A8D solid 1px;
+    margin: auto;  
+    padding: 20px;
+    text-align: justify;
+    letter-spacing: 2px;
+}
+table {
+    color: white;
+    font-family: franklin gothic regular;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+
+}
+tr,th,td {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+th {
+    letter-spacing: 2px;
+}
+.f1 {
+    background-color: #171A8D;
+    border: white 3px dashed;
+    width: fit-content;
+    color: white;
+}
+.f2 {
+    background-color: #171A8D;
+    border: white 3px double;
+    width: fit-content;
+    color: white;
+    outline: #171A8D;
+    outline-offset: 35px;
+    padding: 10px;
+    margin: auto;
+}
+footer {
+    background-color: #171A8D;
+    background-repeat: no-repeat;
+    background-size: 65px, 65px;
+    background-position: center;
+    color: #ffffff;
+    padding: 8px;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;}
+
+/*Class DIV dan ID*/
+.foto img  {width: 30%;}
+.footer img {
+    float: left;
+    color: white;
+    margin-right: 30px;
+}
+.Notable {
+    font-family: Notable, serif;
+    text-align: center;
+    letter-spacing: 2px;
+}
+#sashin {width: 100%;}
+ul.a {
+    list-style-type: circle;
+}
+#pink {color: rgb(255, 91, 118); font-style: bold;}
+#navblu {color: navy; font-style: bold;}
+ /*LINK*/
+ a:link {
+    color: white;
+ }
+ a:hover {
+    color: #2f37cc;
+ }
+a:visited {
+    color: rgb(255, 255, 255);
+}
+a:active{
+    color: white;
+}
+
+/*icons*/
+.fab.fa-youtube {
+    font-size: 20px;}
+.fab.fa-instagram {
+    font-size: 20px;
+}
